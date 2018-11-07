@@ -17,16 +17,8 @@ if (getWindowHref.match("file") || getWindowHref.match("CampaignSetup") || getWi
 }
 
 }());
-/*
-============================
-============================
-=====SPARC CONTROLLERS======
-============================
-============================
-*/
-/*
-Controller of main selection input
-*/
+
+
 function sparcInputsController(){
  'use strict';
  const aybe_select = document.getElementById('aybe_select_options');
