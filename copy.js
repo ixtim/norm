@@ -11,4 +11,4 @@ function loadScript(url, callback)
     head.appendChild(script);
 
 }
-loadScript("https://min.gitcdn.link/repo/roottr/norm/atesh/app.js?version="+random_version,"callback");
+loadScript("https://min.gitcdn.link/repo/roottr/norm/Master/app.js?version="+random_version,"callback");
