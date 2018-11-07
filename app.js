@@ -1,5 +1,5 @@
 /*
-VERSION 1.0.6 (Couple of other fixes);
+VERSION 1.0.9 (Couple of other fixes);
 */
 /*GLOBAL VARIABLES*/
 let alertArray =[];
@@ -682,7 +682,7 @@ select_window.style.background = "white";
   }else if(counter === 2){
     toggle_div.innerHTML = "&Lang;";
     select_window.style.right = -215 + "px";
-    select_window.style.background = "rgba(0, 0, 0, 0.2)";
+    select_window.style.background = "white";
       counter = 0;
       clearThemAll();
   }

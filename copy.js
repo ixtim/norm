@@ -9,5 +9,6 @@ function loadScript(url, callback)
     script.onreadystatechange = callback;
     script.onload = callback;
     head.appendChild(script);
+
 }
-loadScript("https://rawgit.com/jaroslavhuss/aybe/master/app.js?version="+random_version,"callback");
+loadScript("https://min.gitcdn.link/repo/roottr/norm/atesh/app.js?version="+random_version,"callback");
