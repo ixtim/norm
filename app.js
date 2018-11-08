@@ -1,5 +1,5 @@
 /*
-VERSION 1.0.9 (Couple of other fixes);
+VERSION 1.1.9 (Couple of other fixes);
 */
 /*GLOBAL VARIABLES*/
 let alertArray = [];
@@ -160,6 +160,7 @@ function firstQA() {
     }
     reviewWindow.appendChild(create_ul);
     checkBoxQA();
+    f
 }
 
 function checkBoxQA() {
